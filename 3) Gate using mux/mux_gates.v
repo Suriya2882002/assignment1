@@ -24,4 +24,4 @@ always @(a,b)
 	    output_xnor = b;
          end
   end
-endmodule3) Gate using mux
+endmodule3) 
